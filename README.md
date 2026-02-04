@@ -1,3 +1,8 @@
+high level design:
+<img width="1444" height="758" alt="image" src="https://github.com/user-attachments/assets/1c823041-80de-41a2-80b2-06560df5b9a8" />
+
+
+
 # Retail Portal – Full Stack Node.js Application
 
 This repository contains the base structure for a **Retail Portal** application built using **Node.js** with a separate **backend** and **frontend** setup.  
